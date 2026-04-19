@@ -23,3 +23,15 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+rota:
+  name: rota
+  title: CEO of VortexDevelopment
+  url: https://github.com/fnicefire
+  image_url: https://github.com/fnicefire.png
+  page: true
+  socials:
+    x: rotafnyt
+    github: fnicefire
+    instagram: rotafnyt
+    youtube: rotafn

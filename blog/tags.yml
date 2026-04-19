@@ -17,3 +17,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+vortexnew:
+  label: Vortexnew
+  permalink: /Vortexnew
+  description: evolutionize your server with ease and style.

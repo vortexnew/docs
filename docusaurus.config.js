@@ -58,6 +58,9 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
+          // Draft Developer
+          exclude: ['**/_drafts/**'],
+
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -97,7 +100,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://link.vortexnew.qzz.io/github',
             label: 'GitHub',
             position: 'right',
           },
@@ -119,16 +122,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.vortexnew.qzz.io',
               },
               {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://link.vortexnew.qzz.io/x',
+              },
+              {
+                label: 'Reddit',
+                href: 'https://link.vortexnew.qzz.io/reddit/VortexNew',
               },
             ],
           },
@@ -136,12 +139,16 @@ const config = {
             title: 'More',
             items: [
               {
+                label: 'Website',
+                href: 'https://vortexnew.qzz.io',
+              },
+              {
                 label: 'Blog',
                 to: '/blog',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://link.vortexnew.qzz.io/github"',
               },
             ],
           },

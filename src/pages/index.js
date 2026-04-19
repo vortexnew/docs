@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Enter on VortexNew Docs Miao
+            Enter on VortexNew Docs
           </Link>
         </div>
       </div>
